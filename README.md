@@ -46,5 +46,6 @@ ___
 <h2><a href="/">Stats</a></h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Inforberi&theme=solarized_dark">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inforberi&layout=compact)](https://github.com/Inforberi/github-readme-stats)
 </div>
+
