@@ -46,5 +46,5 @@ ___
 <h2><a href="/">Stats</a></h2>
 
 <div align="center">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Inforberi&theme=solarized_dark)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Inforberi&theme=solarized_dark">
 </div>
