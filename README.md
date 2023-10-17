@@ -20,7 +20,7 @@
 
 <a href="https://t.me/kn9jee" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
 
-<a href="www.linkedin.com/in/alexey-tatarchuk-417447292"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/alexey-tatarchuk-417447292/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"></a>
 
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'> <img src="https://i.ibb.co/jg7f5zN/2-1.png" width="50px" height="27.5px"> tatarchuk.a.s.1997@gmail.com
 
