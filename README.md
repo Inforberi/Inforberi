@@ -20,7 +20,10 @@
 
 <a href="https://t.me/kn9jee" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
 
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"></a>
+
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'> <img src="https://i.ibb.co/jg7f5zN/2-1.png" width="50px" height="27.5px"> tatarchuk.a.s.1997@gmail.com
+
 ___
 
 <h2><a href="/">Skils</a></h2>
