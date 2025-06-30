@@ -32,7 +32,7 @@ I focus on writing maintainable code and following industry best practices.
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="45" height="45" alt="Git" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45" height="45" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" width="55" height="55" alt="TypeScript" /></a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349540/typescript.svg" width="45" height="45" alt="TypeScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45" height="45" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45" height="45" alt="CSS3" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="45" height="45" alt="Sass" /></a>
