@@ -38,10 +38,10 @@ I focus on writing maintainable code and following industry best practices.
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="45" height="45" alt="React" /></a>
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="45" height="45" alt="Photoshop" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="45" height="45" alt="Figma" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="45" height="45" alt="Next.js" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="45" height="45" alt="Next.js" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="45" height="45" alt="TailwindCSS" /></a>
   <a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="45" height="45" alt="SvelteKit" /></a>
-  <a href="https://strapi.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/strapi-logo-27EDE0A009-seeklogo.com.png" width="45" height="45" alt="Strapi" /></a>
+  <a href="https://strapi.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/strapi/strapi-icon.svg" width="45" height="45" alt="Strapi" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="45" height="45" alt="Docker" /></a>
 </p>
 
