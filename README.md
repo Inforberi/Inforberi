@@ -41,7 +41,7 @@ I focus on writing maintainable code and following industry best practices.
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="45" height="45" alt="NextJs" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="45" height="45" alt="TailwindCSS" /></a>
   <a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="45" height="45" alt="SvelteKit" /></a>
-  <a href="https://strapi.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" width="45" height="45" alt="Strapi" /></a>
+  <a href="https://strapi.io/" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/strapi.svg" width="45" height="45" alt="Strapi" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="45" height="45" alt="Docker" /></a>
 </p>
 
