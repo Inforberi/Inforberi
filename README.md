@@ -9,14 +9,15 @@
 
 <h2><a href="/">About me</a></h2>
 
-<div  >
-  I'm Aleksey.:wave: A budding frontend developer, striving for professional growth and advancement in the field of web technologies. :rocket: My fascination with programming began with creating simple web pages, and since then, I've been passionate about crafting aesthetically appealing and functional interfaces. :raised_hands:
+<div>
+I'm a Frontend Developer with 2+ years of commercial experience.  
+I build fast, clean, and user-friendly interfaces using modern tools and frameworks.  
+I focus on writing maintainable code and following industry best practices.
 </div>
 
 ---
 
 <h2><a href="/">Contacts</a></h2>
-
 
 <a href="https://t.me/kn9jee" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
 
@@ -24,7 +25,7 @@
 
 <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'> <img src="https://i.ibb.co/jg7f5zN/2-1.png" width="50px" height="27.5px"> tatarchuk.a.s.1997@gmail.com
 
-___
+---
 
 <h2><a href="/">Skils</a></h2>
 
@@ -36,17 +37,25 @@ ___
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="45" height="45" alt="Sass" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="45" height="45" alt="React" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="45" height="45" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="45" height="45" alt="Figma" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="45" height="45" alt="NextJs" />
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="45" height="45" alt="TailwindCSS" />
+</a>
+<a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="45" height="45" alt="SvelteKit" />
+</a>
+<a href="https://strapi.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" width="45" height="45" alt="Strapi" />
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="45" height="45" alt="Docker" />
+</a>
 </p>
 
-___
-
-<h2><a href="/">Learning</a></h2>
-
--   NEXT.JS <img src="https://uprostim.com/wp-content/uploads/2021/05/image016.png" width="36" height="36" > <a style="vertical-align: middle;" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="35" height="35" alt="NextJs" />
-
-___
+---
 
 <h2><a href="/">Stats</a></h2>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inforberi&layout=compact)](https://github.com/Inforberi/github-readme-stats)
-___
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inforberi&layout=compact)](https://github.com/Inforberi/github-readme-stats)
+
+---
